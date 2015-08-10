@@ -107,7 +107,7 @@ For those in-active ones, you might want to remove the containers by using ```do
 
 ## Demo 2. Automating image baking: Dockerfile is your friend.
 
-The magic is inside the [Makefile](demo2/Makefile) and [README.md](demo2/README.md).
+The magic is inside the [Makefile](demo2/Makefile) and [Dockerfile](demo2/Dockerfile).
 
 Execute ```make``` will start the image creation.
 
