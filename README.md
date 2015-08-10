@@ -4,7 +4,7 @@
 The slides can be found at [ http://slides.com/liyingtang/docker-123 ]( http://slides.com/liyingtang/docker-123 ).
 
 
-## Demo 1 - Hello world
+## Demo 1. Get a taste of docker - Hello world
 
 A really simple one, just try launch a ubuntu instance and create a file inside the instance.
 
@@ -105,6 +105,10 @@ To stop the active one, you will use ```docker kill <CONTAINER_ID>```.
 For those in-active ones, you might want to remove the containers by using ```docker rm <CONTAINER_ID>```.
 
 
-## Demo 2 - Using DOCKERFILE to bake image
+## Demo 2. Automating image baking: Dockerfile is your friend.
+
+The magic is inside the ```Dockerfile``` and ```Makefile```
+
+
 
 
