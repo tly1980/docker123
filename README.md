@@ -107,7 +107,11 @@ For those in-active ones, you might want to remove the containers by using ```do
 
 ## Demo 2. Automating image baking: Dockerfile is your friend.
 
-The magic is inside the ```Dockerfile``` and ```Makefile```
+The magic is inside the ```Dockerfile``` and ```Makefile```.
+
+Execute ```make``` will start the image creation.
+
+Execute ```make``` will start the nginx inside the container.
 
 
 
